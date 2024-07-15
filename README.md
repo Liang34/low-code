@@ -5,3 +5,7 @@ Tools:
 状态管理：Zustand
 UI：AntD
 其他： less、axios、Immer、lodash
+数据设计：
+```typescript
+
+```
